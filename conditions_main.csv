@@ -1,0 +1,49 @@
+phase,target,target_set,flanker,congruency,spacing,spacing_h,stimulus
+main,H,HT,H,congruent,close,0.03,HHHHH
+main,H,HT,T,congruent,close,0.03,TTHTT
+main,H,HT,H,congruent,far,0.08,H H H H H
+main,H,HT,T,congruent,far,0.08,T T H T T
+main,H,HT,S,incongruent,close,0.03,SSHSS
+main,H,HT,F,incongruent,close,0.03,FFHFF
+main,H,HT,S,incongruent,far,0.08,S S H S S
+main,H,HT,F,incongruent,far,0.08,F F H F F
+main,H,HT,R,neutral,close,0.03,RRHRR
+main,H,HT,K,neutral,close,0.03,KKHKK
+main,H,HT,R,neutral,far,0.08,R R H R R
+main,H,HT,K,neutral,far,0.08,K K H K K
+main,T,HT,T,congruent,close,0.03,TTTTT
+main,T,HT,H,congruent,close,0.03,HHTHH
+main,T,HT,T,congruent,far,0.08,T T T T T
+main,T,HT,H,congruent,far,0.08,H H T H H
+main,T,HT,S,incongruent,close,0.03,SSTSS
+main,T,HT,F,incongruent,close,0.03,FFTFF
+main,T,HT,S,incongruent,far,0.08,S S T S S
+main,T,HT,F,incongruent,far,0.08,F F T F F
+main,T,HT,R,neutral,close,0.03,RRTRR
+main,T,HT,K,neutral,close,0.03,KKTKK
+main,T,HT,R,neutral,far,0.08,R R T R R
+main,T,HT,K,neutral,far,0.08,K K T K K
+main,S,SF,S,congruent,close,0.03,SSSSS
+main,S,SF,F,congruent,close,0.03,FFSFF
+main,S,SF,S,congruent,far,0.08,S S S S S
+main,S,SF,F,congruent,far,0.08,F F S F F
+main,S,SF,H,incongruent,close,0.03,HHSHH
+main,S,SF,T,incongruent,close,0.03,TTSTT
+main,S,SF,H,incongruent,far,0.08,H H S H H
+main,S,SF,T,incongruent,far,0.08,T T S T T
+main,S,SF,R,neutral,close,0.03,RRSRR
+main,S,SF,K,neutral,close,0.03,KKSKK
+main,S,SF,R,neutral,far,0.08,R R S R R
+main,S,SF,K,neutral,far,0.08,K K S K K
+main,F,SF,F,congruent,close,0.03,FFFFF
+main,F,SF,S,congruent,close,0.03,SSFSS
+main,F,SF,F,congruent,far,0.08,F F F F F
+main,F,SF,S,congruent,far,0.08,S S F S S
+main,F,SF,H,incongruent,close,0.03,HHFHH
+main,F,SF,T,incongruent,close,0.03,TTFTT
+main,F,SF,H,incongruent,far,0.08,H H F H H
+main,F,SF,T,incongruent,far,0.08,T T F T T
+main,F,SF,R,neutral,close,0.03,RRFRR
+main,F,SF,K,neutral,close,0.03,KKFKK
+main,F,SF,R,neutral,far,0.08,R R F R R
+main,F,SF,K,neutral,far,0.08,K K F K K

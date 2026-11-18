@@ -1,0 +1,25 @@
+phase,target,target_set,flanker,congruency,spacing,spacing_h,stimulus
+practice,H,HT,H,congruent,close,0.03,HHHHH
+practice,H,HT,T,congruent,far,0.08,T T H T T
+practice,H,HT,S,incongruent,close,0.03,SSHSS
+practice,H,HT,F,incongruent,far,0.08,F F H F F
+practice,H,HT,R,neutral,close,0.03,RRHRR
+practice,H,HT,K,neutral,far,0.08,K K H K K
+practice,T,HT,T,congruent,close,0.03,TTTTT
+practice,T,HT,H,congruent,far,0.08,H H T H H
+practice,T,HT,S,incongruent,close,0.03,SSTSS
+practice,T,HT,F,incongruent,far,0.08,F F T F F
+practice,T,HT,R,neutral,close,0.03,RRTRR
+practice,T,HT,K,neutral,far,0.08,K K T K K
+practice,S,SF,S,congruent,close,0.03,SSSSS
+practice,S,SF,F,congruent,far,0.08,F F S F F
+practice,S,SF,H,incongruent,close,0.03,HHSHH
+practice,S,SF,T,incongruent,far,0.08,T T S T T
+practice,S,SF,R,neutral,close,0.03,RRSRR
+practice,S,SF,K,neutral,far,0.08,K K S K K
+practice,F,SF,F,congruent,close,0.03,FFFFF
+practice,F,SF,S,congruent,far,0.08,S S F S S
+practice,F,SF,H,incongruent,close,0.03,HHFHH
+practice,F,SF,T,incongruent,far,0.08,T T F T T
+practice,F,SF,R,neutral,close,0.03,RRFRR
+practice,F,SF,K,neutral,far,0.08,K K F K K
